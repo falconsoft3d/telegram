@@ -8,4 +8,5 @@
 4- Create a Group
 5- Add this bot <Telegram Bot Raw> for know the id of the group
 6- /start
+7- pip3 install telebot
 ```
